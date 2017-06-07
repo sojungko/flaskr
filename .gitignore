@@ -17,3 +17,6 @@ htmlcov
 .coverage
 .coverage.*
 *,cover
+flaskr/__pycache__/
+flaskr/static/
+flaskr/templates/
